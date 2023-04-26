@@ -13,7 +13,7 @@ export default function Logo({}: LogoProps) {
         className="hidden md:block cursor-pointer"
         height="100"
         width="100"
-        src="/images/logo.png"
+        src="/images/my-logo.png"
       />
     </div>
   );
